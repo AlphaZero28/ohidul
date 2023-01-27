@@ -1,0 +1,25 @@
+.container{
+    /* border-bottom: 5px dotted rgb(58, 58, 84); */
+}
+
+.headTxt{
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(120, 155, 194);
+    padding: 8px;
+    border-radius: 10px;
+    width: 50%;
+    /* margin-left: 4.7rem; */
+    /* width: %; */
+}
+
+.contentContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.skillRow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

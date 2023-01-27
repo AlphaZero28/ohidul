@@ -1,0 +1,21 @@
+.container{
+    /* background-color: #5190a5; */
+    padding: 10px;
+    border-radius: 5%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    /* margin-top: 30px; */
+    /* margin-bottom: 3rem; */
+    /* width: 25%; */
+}
+
+.skillTitle{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    /* width: 400px; */
+}
+
+.item{
+    text-align: left;
+}

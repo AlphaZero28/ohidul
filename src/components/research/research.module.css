@@ -1,0 +1,35 @@
+.container{
+    margin-top: 30px;
+    width: 90%;
+    display: flex;
+
+}
+
+.title{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(49, 99, 142);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    /* border-bottom: 2px ; */
+}
+
+.research{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 10px;
+    border-right: 2px dotted rgb(28, 80, 44);
+}
+.pub{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items:center;
+}

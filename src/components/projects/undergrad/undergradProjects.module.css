@@ -1,0 +1,23 @@
+.btn{
+    background-color: rgb(166, 159, 219);
+    width: 8rem;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    /* color: w; */
+}
+
+.btn:focus{
+    /* border: 2px solid black; */
+    color: white;
+    background-color: rgb(71, 63, 136);
+}
+
+.li{
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: left;
+}

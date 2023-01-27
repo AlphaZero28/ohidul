@@ -1,0 +1,57 @@
+.home{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    background-color: #cddfef;
+    /* margin-top: 50px; */
+    width: 80%;
+    height: 82vh;
+}
+.personal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-bottom: 5px dotted rgb(58, 58, 84); */
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.me{
+    width: 20%;
+}
+.about{
+    width: 65%;
+}
+.profile_img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.aboutTxt{
+    text-align: justify;
+}
+
+.intEduContainer{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.interest{
+    width:45%;
+}
+.edu{
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    width: 80%;
+}
+
+
+.smallHeadTxt{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
